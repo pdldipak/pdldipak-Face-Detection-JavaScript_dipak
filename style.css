@@ -19,7 +19,7 @@ body {
   }
 
   canvas {
-    height: 25rem;
+    height: 35rem;
     width: 30rem;
     position: absolute;
   }
